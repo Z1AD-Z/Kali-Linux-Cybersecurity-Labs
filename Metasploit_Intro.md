@@ -132,19 +132,19 @@ Metasploit is organized into modules:
    exploit 
 
   ### Summary — What to Remember
-   # Metasploit is an exploitation and testing framework
-   # Uses modules: exploit, payload, auxiliary
-   # msfconsole is the main interface
-   # Always configure RHOSTS before running
-   # Meterpreter provides advanced control
-   # Use only in legal lab environments
+   Metasploit is an exploitation and testing framework
+   Uses modules: exploit, payload, auxiliary
+   msfconsole is the main interface
+   Always configure RHOSTS before running
+   Meterpreter provides advanced control
+   Use only in legal lab environments
 
 
   ### Skills Gained
-  # Understanding exploitation frameworks
-  # Navigating Metasploit modules
-  # Learning ethical penetration testing workflows
-  # Practicing vulnerability research in labs
+   Understanding exploitation frameworks
+   Navigating Metasploit modules
+   Learning ethical penetration testing workflows
+   Practicing vulnerability research in labs
 
    ## Metasploit is a core tool for professional penetration testers and cybersecurity analysts.
 
